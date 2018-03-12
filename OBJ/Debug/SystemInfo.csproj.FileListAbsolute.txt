@@ -1,0 +1,9 @@
+C:\Users\mbc\Downloads\Csharpcorner\SystemInfo\bin\Debug\SystemInfo.exe
+C:\Users\mbc\Downloads\Csharpcorner\SystemInfo\bin\Debug\SystemInfo.pdb
+C:\Users\mbc\Downloads\Csharpcorner\SystemInfo\obj\Debug\SystemInfo.Form1.resources
+C:\Users\mbc\Downloads\Csharpcorner\SystemInfo\obj\Debug\SystemInfo.csproj.GenerateResource.Cache
+C:\Users\mbc\Downloads\Csharpcorner\SystemInfo\obj\Debug\SystemInfo.csproj.CoreCompileInputs.cache
+C:\Users\mbc\Downloads\Csharpcorner\SystemInfo\obj\Debug\SystemInfo.exe
+C:\Users\mbc\Downloads\Csharpcorner\SystemInfo\obj\Debug\SystemInfo.pdb
+C:\Users\mbc\Downloads\Csharpcorner\SystemInfo\obj\Debug\SystemInfo.csprojResolveAssemblyReference.cache
+C:\Users\mbc\Downloads\Csharpcorner\SystemInfo\bin\Debug\SystemInfo.exe.config
